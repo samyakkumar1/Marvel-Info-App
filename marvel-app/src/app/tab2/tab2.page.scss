@@ -1,0 +1,17 @@
+ion-content.background{
+    //--ion-background-color:#AF5921;
+    --background:url(../../assets/icon/xmen.jpg)0 0/100% 100% no-repeat;
+}
+
+
+img{
+    width: 250px;
+    height: 380px;
+}
+
+.poster-col{
+    height: 400px;
+    img{
+        border-radius: 40px;
+    }
+}

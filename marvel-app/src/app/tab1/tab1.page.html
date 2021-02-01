@@ -1,0 +1,20 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <ion-title>
+      Marvel Heroes
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content class="background no-scroll"[fullscreen]="true" overflow-scroll="false">
+  <ion-header collapse="condense">
+   
+  </ion-header>
+  <ion-card *ngFor="let info of infos">
+    <ion-card-header>
+      <img [src]="info.thumbnail.path+'/landscape_incredible.'+info.thumbnail.extension"alt="Hero image">
+      <ion-card-subtitle></ion-card-subtitle>
+      <ion-card-title>{{info.name}}</ion-card-title>
+    </ion-card-header>
+  </ion-card>
+</ion-content>

@@ -22,5 +22,5 @@ Install ionic labs(pretty cool for ionic Development)
 * ionic serve --lab
 # Project Image
 ![Screenshot_2021-01-21 Ionic Lab(1)](https://user-images.githubusercontent.com/54317009/106493901-abd84b00-64b1-11eb-9c8f-4ee469cb5fb2.png)
-![Screenshot_2021-01-21 Ionic Lab(2)](https://user-images.githubusercontent.com/54317009/106493956-b98dd080-64b1-11eb-8118-269b86f0690e.png)
 ![Screenshot_2021-01-21 Ionic Lab](https://user-images.githubusercontent.com/54317009/106493971-bdb9ee00-64b1-11eb-8877-01275db0010c.png)
+![Screenshot_2021-01-21 Ionic Lab(2)](https://user-images.githubusercontent.com/54317009/106493956-b98dd080-64b1-11eb-8118-269b86f0690e.png)
